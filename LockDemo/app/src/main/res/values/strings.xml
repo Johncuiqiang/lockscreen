@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LockDemo</string>
+    <string name="button_name">Lock</string>
+</resources>
